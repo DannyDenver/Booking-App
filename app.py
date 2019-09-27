@@ -16,7 +16,7 @@ from forms import *
 # App Config.
 #----------------------------------------------------------------------------#
 
-## testing git
+# Danman
 app = Flask(__name__)
 moment = Moment(app)
 app.config.from_object('config')
